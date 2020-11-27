@@ -1,0 +1,11 @@
+.testimonials-header {
+    background: url('../../images/quote.png') no-repeat;
+    background-position: top right;
+    background-size: 220px;
+}
+.testimonial-card:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+.testimonial-card {
+    border: 0 !important;
+}

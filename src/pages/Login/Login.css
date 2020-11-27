@@ -1,0 +1,28 @@
+.social-media-btn {
+    border-radius: 50px !important;
+    display: flex !important;
+    justify-content: space-between;
+    align-items: center;
+}
+.social-media-btn img {
+    height: 30px;
+    margin-right: 1rem;
+}
+.social-media-btn span {
+    color: #fff;
+    font-weight: bold;
+}
+.toggle-text {
+    color: tomato;
+	cursor: pointer;
+}
+.orSection {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.orSection div {
+	background-color: black;
+	height: 1px;
+	width: 27%;
+}

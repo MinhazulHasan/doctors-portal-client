@@ -1,0 +1,13 @@
+.card-primary {
+    background-color: #1CC7C1;
+}
+.card-dark {
+    background-color: #3A4256;
+}
+.info-icon {
+    font-size: 3rem;
+}
+.info-container {
+    border-radius: 5px;
+    padding: 30px 0;
+}

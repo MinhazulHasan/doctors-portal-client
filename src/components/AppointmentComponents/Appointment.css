@@ -1,0 +1,12 @@
+.appointment-card{
+    border: none !important;
+}
+.appointment-card:hover {
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
+.my-modal{
+    position: fixed;
+    width: 40%;
+    height: 400px;
+    background: #000;
+}
