@@ -12,7 +12,7 @@ const FeaturedService = () => {
                     </Col>
                     <Col md={7} className="align-self-center">
                         <h1 className="text-heading">Exceptional Dental Care, on your Term</h1>
-                        <p className="text-secondary blockquote my-5">Lorem ipsum dolor sit amet consectetur adipisicing elit.  Tempore efacere amet aperiam non odio. Temporibus, nemo quasi quisquam ipsa distinctio saepe sed veniam incidunt, tempora mollitia, dignissimos repellendus expedita. Obcaecati minima, reiciendis optio aspernatur autem pariatur soluta illum velit, eligendi dolorem consequuntur sapiente rerum accusamus aut nulla praesentium! Neque autem animi, voluptatem magnam nesciunt officia nemo nam, delectus minima velit beatae iste praesentium ad repudiandae, similique excepturi sapiente.</p>
+                        <p className="text-secondary blockquote my-4 text-justify">Good oral/dental health translates to good health overall. Dental problems such as cavities or gum disease can impair your ability to eat and speak properly, cause pain and bad breath. And what many people may not realize, is that poor dental health can have a profoundly, negative affect on areas outside of the mouth, including your heart, diabetes, pregnancy and chronic inflammation, such as arthritis — to name a few. Practicing good dental hygiene is so important, because it can prevent these type of oral disease and dental problems. And prevention should be the primary focus.</p>
                         <button className="gradient-btn py-3 px-4">Learn More</button>
                     </Col>
                 </Row>

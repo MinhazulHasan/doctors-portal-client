@@ -10,7 +10,7 @@ const Banner = () => {
         <Row style={{height: '600px'}}  className='d-flex align-items-center'>
             <Col md={{ span: 5 }} sm={12}>
                 <h1 className='text-heading'>Your New Smile<br/>Starts Here</h1>
-                <p className='text-secondary my-4'>Lorem Ipsum is simply dummy text of the printing and <br/> typesetting industry. Lorem Ipsum has been the <br/> industry’s standard dummy text ever since the</p>
+                <p className='text-secondary my-4'>Smiling not only offers a mood boost but helps our bodies release cortisol and endorphins that provide numerous health benefits, including: Reduced blood pressure. So make yourself smile again!</p>
                 <button onClick={() => history.push('/appointment')} className='gradient-btn p-3'>GET APPOINTMENT</button>
             </Col>
             <Col md={{ span: 6, offset: 1 }}  className='d-none d-md-block'>

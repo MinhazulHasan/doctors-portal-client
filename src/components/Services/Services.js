@@ -8,15 +8,18 @@ import { Row } from 'react-bootstrap';
 const services = [
     {
         name: 'Fluoride Treatment',
-        img: fluoride
+        img: fluoride,
+        description: 'Fluoride is a natural mineral that builds strong teeth and prevents cavities. It’s been an essential oral health treatment for decades. Fluoride supports healthy tooth enamel and fights the bacteria that harm teeth and gums.'
     },
     {
         name: 'Cavity Filling',
-        img: cavity
+        img: cavity,
+        description: 'To treat a cavity your dentist will remove the decayed portion of the tooth and then "fill" the area on the tooth where the decayed material once lived.Fillings are also used to repair cracked or broken teeth and teeth that have been worn down from misuse.'
     },
     {
         name: 'Teath Whitening',
-        img: whitening
+        img: whitening,
+        description: 'Tooth whitening can be a very effective way of lightening the natural colour of your teeth without removing any of the tooth surface. It cannot make a complete colour change, but it may lighten the existing shade.'
     }
 ];
 

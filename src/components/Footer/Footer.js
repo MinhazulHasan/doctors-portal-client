@@ -16,8 +16,8 @@ const Footer = () => {
         { name: "Check Up", link: "#" },
     ]
     const ourAddress = [
-        { name: "New York - 101010 Hudson", link: "#" },
-        { name: "Yards", link: "#" },
+        { name: "Dorsona - Rangpur", link: "#" },
+        { name: "Bangladesh", link: "#" },
 
     ]
     const oralHealth = [

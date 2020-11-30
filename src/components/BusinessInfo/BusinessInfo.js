@@ -12,13 +12,13 @@ const infosData = [
     },
     {
         title: 'Visit our location',
-        description: 'Brooklyn, NY 10036, United States',
+        description: 'Rangpur, Bangladesh',
         icon: faMapMarkerAlt,
         background: 'dark'
     },
     {
         title: 'Contact us now',
-        description: '+000 123 456789',
+        description: '+88 01723 183898',
         icon: faPhoneAlt,
         background: 'primary'
     }
